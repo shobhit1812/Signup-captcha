@@ -1,2 +1,2 @@
 # Signup-captcha
-html, css, vanilla js
+captcha generator and verification in a signup-form using html, css, javascript only
