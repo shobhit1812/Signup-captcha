@@ -44,9 +44,9 @@
       ).value
       if (inputCaptchaValue === captchaValue) {
         // Sweet Alert Function
-        swal("", "Logging In!", "success")
+        swal("", "Signing In!", "success")
       } else {
-        swal("Invalid captcha")
+        swal("Invalid captcha", )
       }
     })
 })()
